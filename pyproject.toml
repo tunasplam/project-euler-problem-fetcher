@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "poject-euler-problem-fetcher"
+version = "1.0.0"
+description = "Fetches project euler problems."
+license=["MIT"]
+authors = ["Jordan Porter"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+argparse = "^1.4.0"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
