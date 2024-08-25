@@ -2,7 +2,7 @@
 name = "poject-euler-problem-fetcher"
 version = "1.0.0"
 description = "Fetches project euler problems."
-license=["MIT"]
+license="MIT"
 authors = ["Jordan Porter"]
 readme = "README.md"
 
